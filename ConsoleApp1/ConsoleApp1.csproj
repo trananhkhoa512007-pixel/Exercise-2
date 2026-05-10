@@ -5,6 +5,15 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>ConsoleApp1.Session_05.Baitap5</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Session_01\" />
+    <Folder Include="Session_09\" />
+    <Folder Include="Session_08\" />
+    <Folder Include="session_07\" />
+    <Folder Include="Session_06\" />
+  </ItemGroup>
 
 </Project>
